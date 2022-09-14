@@ -1,1 +1,9 @@
-/* BASIC STYLES HERE */
+.end-bar,
+.main-content {
+  max-height: 100vh;
+  overflow: auto;
+}
+
+.main-content {
+  width: 50vw;
+}
